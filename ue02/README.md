@@ -27,9 +27,9 @@ Personen. Im Kopf von `spezifikation.md` und `rollen.md` stehen die
 GitHub-Benutzernamen aller Personen, die mitgearbeitet haben.
 
 > [!IMPORTANT]
-> Für diese Übung gibt es 1 Bonuspunkt. Diesen erhält nur, wer vor Beginn
-> der Übung 3 selbst einen Pull Request mit Inhalten gestellt hat. Daher
-> reicht jedes Mitglied einer Gruppe selbst ein: Es legt die gemeinsamen
+> Für diese Übung gibt es 1 Bonuspunkt. Diesen erhält nur, wer bis zur
+> Frist im Moodle-Kurs selbst einen Pull Request mit Inhalten gestellt hat.
+> Daher reicht jedes Mitglied einer Gruppe selbst ein: Es legt die gemeinsamen
 > Dateien in seinem eigenen Verzeichnis ab, überträgt sie in seinen eigenen
 > Fork und stellt einen eigenen Pull Request. Die Benutzernamen im Kopf der
 > Dateien ergänzen dies lediglich.
