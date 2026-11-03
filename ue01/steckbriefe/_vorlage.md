@@ -1,4 +1,4 @@
-# Steckbrief <kürzel>
+# Steckbrief <benutzername>
 
 ## Studiengang und Semester
 

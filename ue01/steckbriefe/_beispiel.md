@@ -1,6 +1,6 @@
-# Steckbrief mmus
+# Steckbrief mmustermann
 
-<!-- Beispiel mit einem erfundenen Kürzel — so kann Ihr Steckbrief aussehen. -->
+<!-- Beispiel mit einem erfundenen Benutzernamen — so kann Ihr Steckbrief aussehen. -->
 
 ## Studiengang und Semester
 

@@ -7,8 +7,9 @@ Anforderungen. Die Aufgaben stehen im
 
 ## Was Sie einreichen
 
-Einzureichen ist ein Verzeichnis `ue03/<kürzel>/` mit drei Dateien, und
-zwar als Pull Request vom Branch `ue03-<kürzel>`:
+Einzureichen ist ein Verzeichnis `ue03/<benutzername>/` mit drei Dateien,
+und zwar als Pull Request vom Branch `ue03-<benutzername>`. Gemeint ist Ihr
+GitHub-Benutzername in Kleinbuchstaben.
 
 | Datei | Aufgabe | Woher |
 |---|---|---|
@@ -16,7 +17,7 @@ zwar als Pull Request vom Branch `ue03-<kürzel>`:
 | `zuordnung.md` | 2 — Anforderung oder Lösung? | entsteht im Übungsblatt und wird dort heruntergeladen |
 | `anforderungen.md` | 3 — Eigene Anforderungen | aus `_vorlage/` |
 
-1. Kopieren Sie das Verzeichnis `_vorlage` nach `<kürzel>`. Die Vorlage
+1. Kopieren Sie das Verzeichnis `_vorlage` nach `<benutzername>`. Die Vorlage
    selbst bleibt unverändert.
 2. Bearbeiten Sie die Dateien im Lauf der Übung und legen Sie
    `zuordnung.md` hinzu.

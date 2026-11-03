@@ -15,6 +15,7 @@ sagt, was dort einzureichen ist.
 | [`ue01/`](ue01/) | Erste Schritte mit Git und GitHub |
 | [`ue02/`](ue02/) | Das Projektmodell am Fall |
 | [`ue03/`](ue03/) | Anforderungen an den Terminplaner |
+| [`ue04/`](ue04/) | Einen Coding Agent einrichten |
 
 ## So reichen Sie etwas ein
 
@@ -46,17 +47,18 @@ Den Branch für die neue Übung zweigen Sie erst danach ab.
 
 ## Spielregeln
 
-- **Kürzel statt Klarname.** Dieses Repository ist öffentlich. Wählen Sie ein
-  Kürzel, das Sie selbst wiedererkennen, und behalten Sie es über alle
-  Übungen bei. Es wird Teil von Datei- und Branchnamen: nur Kleinbuchstaben
-  und Ziffern, keine Umlaute, keine Leerzeichen. Liegt unter
-  `ue01/steckbriefe/` schon eine Datei mit Ihrem Kürzel, hängen Sie eine
-  Ziffer an.
-- **Öffentlich ist mehr als das Kürzel.** Am Pull Request steht Ihr
-  GitHub-Benutzername, in jedem Commit stehen Name und E-Mail-Adresse aus
-  Ihrer Git-Einrichtung. Wie Sie Ihre Adresse verbergen, steht in
-  [Aufgabe 0 des Übungsblatts](https://carstenlucke.github.io/thm_wk-1208_softwaretechnik/ue01-git-github/#aufgabe-0--einrichten). Schreiben Sie auch in Ihre Dateien nichts, was nicht
-  jeder lesen darf — keine Matrikelnummer, keine Anschrift.
+- **Ihr GitHub-Benutzername als Kennung.** Ihre Datei- und Verzeichnisnamen
+  sowie Ihre Branches tragen Ihren GitHub-Benutzernamen, und zwar in
+  Kleinbuchstaben: Aus `MMustermann` wird `mmustermann`. Anders als ein
+  selbst gewähltes Kürzel ist er eindeutig, und er steht ohnehin an jedem
+  Pull Request. Ihren Benutzernamen sehen Sie auf GitHub, wenn Sie oben
+  rechts auf Ihr Profilbild klicken.
+- **Öffentlich ist mehr als der Benutzername.** In jedem Commit stehen Name
+  und E-Mail-Adresse aus Ihrer Git-Einrichtung. Wie Sie Ihre Adresse
+  verbergen, steht in
+  [Aufgabe 0 des Übungsblatts](https://carstenlucke.github.io/thm_wk-1208_softwaretechnik/ue01-git-github/#aufgabe-0--einrichten).
+  Schreiben Sie auch in Ihre Dateien nichts, was nicht jeder lesen darf —
+  keine Matrikelnummer, keine Anschrift.
 - **Nur eigene Dateien.** Sie ändern ausschließlich, was Sie selbst angelegt
   haben; Vorlagen und die Dateien anderer bleiben unberührt. So kommen sich
   die Pull Requests nicht in die Quere.
@@ -64,4 +66,9 @@ Den Branch für die neue Übung zweigen Sie erst danach ab.
   dieses Repositorys; nur so lässt er sich später abgleichen.
 - **Ein Anliegen je Pull Request**, mit einem Titel, der sagt, was sich
   ändert.
-- **Aussagekräftige Commit-Nachrichten**, etwa `Steckbrief für mmus anlegen`.
+- **Aussagekräftige Commit-Nachrichten**, etwa `Steckbrief für mmustermann anlegen`.
+
+Arbeiten Sie mit einem KI-Agenten, gelten die Spielregeln auch für ihn. Die
+Datei [`AGENTS.md`](AGENTS.md) fasst sie für Agenten zusammen; opencode und
+andere Coding Agents lesen sie, wenn sie in diesem Repository gestartet
+werden.

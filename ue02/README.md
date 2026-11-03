@@ -7,8 +7,9 @@ Aufgaben stehen im
 
 ## Was Sie einreichen
 
-Einzureichen ist ein Verzeichnis `ue02/<kürzel>/` mit drei Dateien, und
-zwar als Pull Request vom Branch `ue02-<kürzel>`:
+Einzureichen ist ein Verzeichnis `ue02/<benutzername>/` mit drei Dateien,
+und zwar als Pull Request vom Branch `ue02-<benutzername>`. Gemeint ist Ihr
+GitHub-Benutzername in Kleinbuchstaben.
 
 | Datei | Aufgabe | Woher |
 |---|---|---|
@@ -17,7 +18,7 @@ zwar als Pull Request vom Branch `ue02-<kürzel>`:
 | `spezifikation.md` | 3 — Gliederung einer Spezifikation | aus `_vorlage/` |
 | `rollen.md` | 5 — Zugabe, freiwillig: Rollen besetzen | aus `_zugabe/` |
 
-1. Kopieren Sie das Verzeichnis `_vorlage` nach `<kürzel>`. Die Vorlage
+1. Kopieren Sie das Verzeichnis `_vorlage` nach `<benutzername>`. Die Vorlage
    selbst bleibt unverändert.
 2. Bearbeiten Sie die Dateien im Lauf der Übung und legen Sie
    `phasenplan.md` hinzu.

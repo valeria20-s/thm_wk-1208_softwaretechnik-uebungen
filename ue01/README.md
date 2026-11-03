@@ -6,12 +6,14 @@ eigenen Rechner bis in dieses Repository. Die Anleitung steht im
 
 ## Was Sie einreichen
 
-Einzureichen ist Ihr Steckbrief als Datei `steckbriefe/<kürzel>.md`, und
-zwar als Pull Request vom Branch `steckbrief-<kürzel>`.
+Einzureichen ist Ihr Steckbrief als Datei `steckbriefe/<benutzername>.md`,
+und zwar als Pull Request vom Branch `steckbrief-<benutzername>`. Gemeint
+ist Ihr GitHub-Benutzername in Kleinbuchstaben.
 
-1. Kopieren Sie `steckbriefe/_vorlage.md` nach `steckbriefe/<kürzel>.md` und
-   ersetzen Sie in der Überschrift `<kürzel>` durch Ihr Kürzel. Die Vorlage
-   selbst bleibt unverändert.
+1. Kopieren Sie `steckbriefe/_vorlage.md` nach
+   `steckbriefe/<benutzername>.md` und ersetzen Sie in der Überschrift
+   `<benutzername>` durch Ihren GitHub-Benutzernamen in Kleinbuchstaben. Die
+   Vorlage selbst bleibt unverändert.
 2. Füllen Sie die drei Abschnitte aus — im Lauf der Übung einen nach dem
    anderen, jeweils als eigenen Commit.
 
